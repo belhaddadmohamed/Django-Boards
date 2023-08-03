@@ -1,4 +1,4 @@
-# Django Blog Application
+# Django Boards Application
 
 [![GitHub Stars](https://img.shields.io/github/stars/belhaddadmohamed/Django_Blog_Application.svg)](https://github.com/belhaddadmohamed/Django_Blog_Application/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/belhaddadmohamed/Django_Blog_Application.svg)](https://github.com/belhaddadmohamed/Django_Blog_Application/issues) 
@@ -42,7 +42,7 @@ Django Boards is open-source software licensed under the [MIT License](link_to_l
 
 ## Get in Touch
 
-If you have any questions, suggestions, or issues, please feel free to open an [issues](https://github.com/belhaddadmohamed/Django_Blog_Application/issues) or reach out to us at [belhaddad.mohamed@email.com].
+If you have any questions, suggestions, or issues, please feel free to open an [issues](https://github.com/belhaddadmohamed/Django_Blog_Application/issues) or reach out to us at [belhaddad.mohamed@gmail.com].
 
 Happy blogging with Django Boards!
 
