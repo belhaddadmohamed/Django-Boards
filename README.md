@@ -34,7 +34,7 @@ Django Boards is a feature-rich Django web application designed to power your pe
 
 ## Contributing
 
-We welcome contributions from the open-source community! If you want to contribute to Django Board Application, please check out our [Contribution Guidelines](Contribution Guidelines.md).
+We welcome contributions from the open-source community! If you want to contribute to Django Board Application, please check out our [Contribution Guidelines](https://github.com/belhaddadmohamed/Django_Blog_Application/blob/main/Contribution%20Guidelines.md).
 
 ## License
 
