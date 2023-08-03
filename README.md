@@ -1,7 +1,7 @@
 # Django Blog Application
 
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/your-repo.svg)](https://github.com/belhaddadmohamed/Django_Blog_Application.git/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/your-repo.svg)](https://github.com/belhaddadmohamed/Django_Blog_Application.git/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/yourusername/your-repo.svg)](https://github.com/belhaddadmohamed/Django_Blog_Application/issues) 
 [![GitHub Forks](https://img.shields.io/github/forks/yourusername/your-repo.svg)](https://github.com/belhaddadmohamed/Django_Blog_Application.git/network)
 
 ## Description
