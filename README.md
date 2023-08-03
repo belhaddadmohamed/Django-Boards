@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django Boards Application
 
 [![GitHub Stars](https://img.shields.io/github/stars/belhaddadmohamed/Django_Blog_Application.svg)](https://github.com/belhaddadmohamed/Django_Blog_Application/stargazers)
@@ -47,3 +48,7 @@ If you have any questions, suggestions, or issues, please feel free to open an [
 
 Happy blogging with Django Boards!
 
+=======
+# Django-Boards
+My Blog application using django framework
+>>>>>>> 0f89678264ce56e8b397444a9583ba0509eebabf
