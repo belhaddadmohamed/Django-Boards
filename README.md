@@ -28,9 +28,10 @@ Django Boards is a feature-rich Django web application designed to power your pe
 
 1. Clone the repository: `git clone https://github.com/belhaddad/Django_Blog_Application-repo.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Apply migrations: `python manage.py migrate`
-4. Create a superuser account: `python manage.py createsuperuser`
-5. Run the development server: `python manage.py runserver`
+3. Use `Sqlite` database if you don't have `PostgresQl`
+4. Apply migrations: `python manage.py migrate`
+5. Create a superuser account: `python manage.py createsuperuser`
+6. Run the development server: `python manage.py runserver`
 
 ## Contributing
 
