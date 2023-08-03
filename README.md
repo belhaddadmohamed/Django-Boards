@@ -26,7 +26,7 @@ Django Boards is a feature-rich Django web application designed to power your pe
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/belhaddad/Django_Blog_Application-repo.git`
+1. Clone the repository: `git clone https://github.com/belhaddadmohamed/Django-Boards.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Use `Sqlite` DBMS if you don't have `PostgreSql`
 4. Apply migrations: `python manage.py migrate`
